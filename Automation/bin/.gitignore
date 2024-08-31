@@ -1,3 +1,8 @@
+/basics/
+/com/
+/datadriven_testing/
+/demotest/
+/handling_disabled_elements/
 /handling_dropdowns/
 /handling_frames/
 /handling_mouse_actions/
@@ -8,3 +13,4 @@
 /methods_of_webdriver/
 /methods_of_webelement/
 /synchronization/
+/Assignments/
