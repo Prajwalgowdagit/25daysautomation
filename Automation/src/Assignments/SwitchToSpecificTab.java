@@ -1,4 +1,4 @@
-package assignments;
+package Assignments;
 
 import java.time.Duration;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package assignments;
+package Assignments;
 
 import java.io.FileInputStream; 
 import java.io.FileOutputStream;

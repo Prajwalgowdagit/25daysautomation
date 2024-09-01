@@ -1,4 +1,4 @@
-package assignments;
+package Assignments;
 
 import java.util.List;
 import org.openqa.selenium.By;
